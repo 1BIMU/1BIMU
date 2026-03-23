@@ -47,7 +47,11 @@ _No recent public activity._
 ## 📝 Latest Blog Posts
 
 <!-- BLOG_START -->
-_Blog RSS not configured or no posts found. Set `BLOG_RSS_URL` to enable._
+- `2025-07-22` [OpenRLHF框架解读](https://1bimu.github.io/2025/07/22/OpenRLHF%E6%A1%86%E6%9E%B6%E8%A7%A3%E8%AF%BB/)
+- `2025-07-21` [7.20 阅读笔记](https://1bimu.github.io/2025/07/21/LLM/7.20%20%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/)
+- `2025-07-20` [PRM 现有工作笔记](https://1bimu.github.io/2025/07/20/LLM/PRM%20%E7%8E%B0%E6%9C%89%E5%B7%A5%E4%BD%9C%E8%B0%83%E7%A0%94/)
+- `2025-07-19` [7.19 阅读笔记](https://1bimu.github.io/2025/07/19/LLM/7.19%20%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/)
+- `2025-07-18` [SFT的一点心得](https://1bimu.github.io/2025/07/18/LLM/SFT%E7%9A%84%E4%B8%80%E7%82%B9%E5%BF%83%E5%BE%97/)
 <!-- BLOG_END -->
 
 ---
