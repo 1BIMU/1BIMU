@@ -30,7 +30,8 @@
 ## 📌 Pinned Repositories
 
 <!-- PINNED_REPOS_START -->
-_Loading..._
+**[APO_OFFICAL](https://github.com/1BIMU/APO_OFFICAL)** — The official repository for Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification
+![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white)  ⭐ 2  🍴 0
 <!-- PINNED_REPOS_END -->
 
 ---
@@ -38,7 +39,7 @@ _Loading..._
 ## ⚡ Recent Activity
 
 <!-- RECENT_ACTIVITY_START -->
-_Loading..._
+_No recent public activity._
 <!-- RECENT_ACTIVITY_END -->
 
 ---
@@ -46,7 +47,7 @@ _Loading..._
 ## 📝 Latest Blog Posts
 
 <!-- BLOG_START -->
-_Loading..._
+_Blog RSS not configured or no posts found. Set `BLOG_RSS_URL` to enable._
 <!-- BLOG_END -->
 
 ---
