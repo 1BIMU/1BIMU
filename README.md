@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+BIMU+%F0%9F%91%8B;CS+%40+BUPT;RL+Researcher+in+the+making)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+BIMU;CS+Student+%40+BUPT;Reinforcement+Learning+Research;LLM+%7C+RLHF+%7C+Optimizer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=1BIMU&style=flat-square&color=6E40C9" alt="Profile Views"/>
 
