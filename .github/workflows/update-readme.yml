@@ -1,0 +1,46 @@
+name: Update README
+
+on:
+  schedule:
+    # Runs every 3 hours
+    - cron: "0 */3 * * *"
+  workflow_dispatch:  # Allow manual trigger
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_readme.py"
+      - ".github/workflows/update-readme.yml"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests feedparser
+
+      - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: set your blog RSS URL in repo Settings → Secrets → BLOG_RSS_URL
+          BLOG_RSS_URL: ${{ secrets.BLOG_RSS_URL }}
+        run: python scripts/update_readme.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes" && exit 0
+          git add README.md
+          git commit -m "chore: auto-update README [skip ci]"
+          git push
