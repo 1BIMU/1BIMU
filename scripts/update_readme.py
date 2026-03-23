@@ -12,9 +12,17 @@ import requests
 USERNAME = "1BIMU"
 README_PATH = "README.md"
 
-# Optional: set this to your blog's RSS/Atom feed URL to enable blog posts.
-# Leave empty to skip the blog section.
-BLOG_RSS_URL = os.environ.get("BLOG_RSS_URL", "")
+# Blog RSS feed — tries common paths on bimu.site if not set via env.
+BLOG_RSS_CANDIDATES = [
+    os.environ.get("BLOG_RSS_URL", ""),
+    "https://bimu.site/atom.xml",
+    "https://bimu.site/rss.xml",
+    "https://bimu.site/feed.xml",
+    "https://bimu.site/index.xml",
+    "https://1bimu.github.io/atom.xml",
+    "https://1bimu.github.io/feed.xml",
+]
+BLOG_RSS_URL = next((u for u in BLOG_RSS_CANDIDATES if u), "")
 
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 HEADERS = {"Authorization": f"Bearer {TOKEN}"} if TOKEN else {}
