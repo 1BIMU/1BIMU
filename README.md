@@ -31,7 +31,7 @@
 
 <!-- PINNED_REPOS_START -->
 **[APO_OFFICAL](https://github.com/1BIMU/APO_OFFICAL)** — The official repository for Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification
-![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white)  ⭐ 2  🍴 0
+![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white)  ⭐ 3  🍴 0
 <!-- PINNED_REPOS_END -->
 
 ---
