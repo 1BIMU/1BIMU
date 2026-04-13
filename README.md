@@ -31,7 +31,7 @@
 
 <!-- PINNED_REPOS_START -->
 **[APO_OFFICAL](https://github.com/1BIMU/APO_OFFICAL)** — The official repository for Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification
-![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white)  ⭐ 3  🍴 0
+![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white)  ⭐ 6  🍴 0
 
 **[SPPO](https://github.com/1BIMU/SPPO)** — SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks official repos.
 ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white)  ⭐ 1  🍴 1
