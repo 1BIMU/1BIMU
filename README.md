@@ -34,7 +34,7 @@
 ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white)  ⭐ 10  🍴 0
 
 **[SPPO](https://github.com/1BIMU/SPPO)** — [ACL 2026 Main] SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks official repos.
-![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white)  ⭐ 1  🍴 2
+![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white)  ⭐ 2  🍴 2
 <!-- PINNED_REPOS_END -->
 
 ---
