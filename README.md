@@ -50,11 +50,11 @@ _No recent public activity._
 ## 📝 Latest Blog Posts
 
 <!-- BLOG_START -->
+- `2026-06-19` [第四章：向量处理机](https://1bimu.github.io/2026/06/19/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84/%E7%AC%AC%E5%9B%9B%E7%AB%A0/)
 - `2026-04-27` [Uncertain Estimate](https://1bimu.github.io/2026/04/27/LLM/Uncertain%20Estimate/)
 - `2026-04-27` [笔记：DPO 与 GRPO 的内在同构性分析](https://1bimu.github.io/2026/04/27/LLM/%E7%AC%94%E8%AE%B0%EF%BC%9ADPO%20%E4%B8%8E%20GRPO%20%E7%9A%84%E5%86%85%E5%9C%A8%E5%90%8C%E6%9E%84%E6%80%A7%E5%88%86%E6%9E%90/)
 - `2026-04-27` [第十一章：文件系统实现](https://1bimu.github.io/2026/04/27/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%EF%BC%9A%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%AE%9E%E7%8E%B0/)
 - `2026-04-27` [第八章：内存管理](https://1bimu.github.io/2026/04/27/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E5%85%AB%E7%AB%A0%EF%BC%9A%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/)
-- `2026-04-27` [第九章&第十章](https://1bimu.github.io/2026/04/27/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%B9%9D%E7%AB%A0&%E7%AC%AC%E5%8D%81%E7%AB%A0/)
 <!-- BLOG_END -->
 
 ---
